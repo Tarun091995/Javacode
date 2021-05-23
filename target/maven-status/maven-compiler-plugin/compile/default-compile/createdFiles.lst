@@ -1,0 +1,10 @@
+com\myproduct\ups\controller\ProductController.class
+com\myproduct\ups\service\ProductService.class
+com\myproduct\ups\UPSApplication.class
+com\myproduct\ups\model\Product.class
+com\myproduct\ups\model\EmployeeRepository.class
+com\myproduct\ups\service\EmployeeService.class
+com\myproduct\ups\controller\EmployeeController.class
+com\myproduct\ups\common\UPSDateUtils.class
+com\myproduct\ups\model\Employee.class
+com\myproduct\ups\model\ProductRepository.class
